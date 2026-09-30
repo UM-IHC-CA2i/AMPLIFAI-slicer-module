@@ -1,0 +1,11 @@
+config.json
+!config.example.json
+debug.log
+segs/
+state_objects/
+AI/
+__pycache__/
+**/__pycache__/
+*.pyc
+labels.csv
+test/

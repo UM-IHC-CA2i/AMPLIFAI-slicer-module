@@ -1,0 +1,7 @@
+{
+  "scan_root": "/path/to/data/input/ct",
+  "v2_state_dir": "/path/to/data/output/state",
+  "mask_root": "/path/to/data/input/tumor_seg",
+  "labels_csv": "/path/to/data/output/labels.csv",
+  "seg_save_dir": "/path/to/data/output/segs"
+}
